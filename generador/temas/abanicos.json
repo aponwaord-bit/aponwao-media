@@ -1,6 +1,6 @@
 {
  "slug": "2026-11-15_abanicos",
- "foto": "assets/tecnico_ancho.jpg",
+ "foto": "assets/abanico.jpg",
  "etiqueta": "Abanicos · Las Terrenas",
  "titulo1": "Abanicos",
  "titulo2": "a punto",
@@ -30,5 +30,6 @@
    "texto": "Aspas limpias para que enfríen mejor."
   }
  ],
- "cierre": "Presupuesto claro antes de empezar · Trabajo garantizado"
+ "cierre": "Presupuesto claro antes de empezar · Trabajo garantizado",
+ "foto_pos": "center 8%"
 }

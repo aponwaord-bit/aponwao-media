@@ -46,7 +46,7 @@ def sellos_html():
 def post(t):
     return f'''<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="../brand.css"><link rel="stylesheet" href="../piezas.css"></head>
 <body class="post"><div class="c">
- <div class="hero"><div class="photo" style="background-image:url(../{t["foto"]})"></div></div>
+ <div class="hero"><div class="photo" style="background-image:url(../{t["foto"]});background-position:{t.get("foto_pos","center")}"></div></div>
  <div class="top">
    <div class="wordmark">ΛPONWΛO</div>
    <div class="kicker">{e(t["etiqueta"])}</div>
@@ -75,7 +75,7 @@ def historia(t):
    <div class="head h2">{e(t["titulo2"])}</div>
    <div class="sub">{e(t["subtitulo"])}</div>
  </div>
- <div class="photo" style="background-image:url(../{t["foto"]})"><div class="badge">{HOUSE.format(c="#fff", bg="#0C2340")}<div>{t["badge"]}</div></div></div>
+ <div class="photo" style="background-image:url(../{t["foto"]});background-position:{t.get("foto_pos","center")}"><div class="badge">{HOUSE.format(c="#fff", bg="#0C2340")}<div>{t["badge"]}</div></div></div>
  <div class="pill">{t["pill"]}</div>
  <div class="list">{servicios_html(t["servicios"], True)}</div>
  <div class="script">{t["script"]}</div>

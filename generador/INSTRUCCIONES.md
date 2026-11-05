@@ -49,3 +49,9 @@ Nunca copiar nombres ni datos de quienes publican en los grupos.
 6. Enviar el correo (Gmail) con enlaces a ambas imágenes, tema y próximo tema.
 7. Programar en Metricool para las 11:30 del mismo día: post Facebook con texto + historia Instagram.
 8. Recordar en el correo que la historia se agrega a Destacadas → "Mantenimiento" desde la app de Instagram.
+
+## Créditos de fotos (Pexels, licencia gratuita)
+- abanico.jpg: Curtis Adams (7601317)
+- manos.jpg: Kampus Production (8441790)
+- puerta.jpg: marcologous (36585227)
+- villa.jpg: Souranshi Fashion and Lifestyle Magazine (4497544)
