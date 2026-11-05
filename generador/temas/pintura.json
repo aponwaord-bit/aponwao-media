@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-05_pintura",
+ "foto": "assets/pintura.jpg",
+ "etiqueta": "Pintura · Las Terrenas",
+ "titulo1": "Pintamos",
+ "titulo2": "tu villa",
+ "subtitulo": "Paredes como nuevas para recibir a tus huéspedes en villas, hoteles y hospedajes.",
+ "pill": "VILLAS<i>•</i>HOTELES<i>•</i>HOSPEDAJES",
+ "badge": "ACABADO<br><b>LIMPIO</b>Y DURADERO",
+ "script": "Un espacio renovado <span>enamora</span> a tus huéspedes",
+ "servicios": [
+  {
+   "icono": "rodillo",
+   "titulo": "Pintura interior",
+   "texto": "Habitaciones, salas, pasillos y áreas comunes."
+  },
+  {
+   "icono": "olas",
+   "titulo": "Exterior y fachadas",
+   "texto": "Pintura resistente al sol, la sal y la humedad del Caribe."
+  },
+  {
+   "icono": "gota",
+   "titulo": "Humedad y moho",
+   "texto": "Tratamiento de manchas y pintura antihumedad."
+  },
+  {
+   "icono": "puerta",
+   "titulo": "Puertas y rejas",
+   "texto": "Barniz, esmalte y antióxido para madera y metal."
+  }
+ ],
+ "cierre": "Presupuesto claro antes de empezar · Trabajo garantizado"
+}

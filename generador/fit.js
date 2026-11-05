@@ -1,0 +1,1 @@
+document.fonts.ready.then(()=>{document.querySelectorAll('.head').forEach(h=>{const w=h.parentElement.clientWidth;let f=parseFloat(getComputedStyle(h).fontSize);while(h.scrollWidth>w&&f>40){f-=2;h.style.fontSize=f+'px'}});document.body.dataset.fit=1});

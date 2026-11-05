@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-09_plomeria",
+ "foto": "assets/plomeria.jpg",
+ "etiqueta": "Plomería · Las Terrenas",
+ "titulo1": "¿Ducha",
+ "titulo2": "dañada?",
+ "subtitulo": "Duchas, llaves y desagües: mantenimiento de plomería para tu villa, hotel u hospedaje.",
+ "pill": "VILLAS<i>•</i>HOTELES<i>•</i>HOSPEDAJES",
+ "badge": "LLEGAMOS<br><b>RÁPIDO</b>A TU VILLA<br>U HOTEL",
+ "script": "Tus huéspedes <span>no esperan</span>, nosotros tampoco",
+ "servicios": [
+  {
+   "icono": "gota",
+   "titulo": "Cambio de duchas",
+   "texto": "Instalación y cambio de duchas y regaderas."
+  },
+  {
+   "icono": "grifo",
+   "titulo": "Llaves y grifería",
+   "texto": "Cambio de llaves de lavamanos, fregaderos y mezcladoras."
+  },
+  {
+   "icono": "tubo",
+   "titulo": "Destape de desagües",
+   "texto": "Lavamanos, fregaderos, duchas e inodoros tapados."
+  },
+  {
+   "icono": "llave",
+   "titulo": "Fugas de agua",
+   "texto": "Reparación de goteos y fugas en tuberías de agua limpia."
+  }
+ ],
+ "cierre": "Presupuesto claro antes de empezar · Trabajo garantizado"
+}

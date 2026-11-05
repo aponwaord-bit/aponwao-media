@@ -1,0 +1,81 @@
+/* ---------- Piezas de redes: feed 1080x1350 e historia 1080x1920 ---------- */
+.c{position:relative;overflow:hidden;background:linear-gradient(160deg,#FFFFFF 0%,var(--paper) 70%)}
+.wordmark{color:var(--logo)}
+.kicker{display:inline-flex;align-items:center;gap:10px;font-family:"Poppins";font-weight:700;color:var(--navy);letter-spacing:.08em;text-transform:uppercase}
+.kicker::before{content:"";width:34px;height:6px;border-radius:3px;background:var(--gold)}
+.h1{color:var(--navy)} .h2{color:var(--gold)}
+.sub{font-family:"Poppins";font-weight:500;color:var(--ink)}
+.pill{display:inline-block;background:var(--navy);color:#fff;font-family:"Poppins";font-weight:700;letter-spacing:.04em;border-radius:40px}
+.pill i{color:var(--gold);font-style:normal;padding:0 6px}
+.script{color:var(--navy)} .script span{color:var(--gold)}
+.badge{border-radius:50%;background:var(--navy);border:7px solid var(--gold);color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;font-family:"Oswald";font-weight:500;line-height:1.12;box-shadow:0 10px 26px rgba(0,0,0,.28)}
+.badge b{color:var(--gold);font-weight:700;display:block}
+.srv{display:flex;gap:16px;align-items:flex-start}
+.srv-ic{flex:none;border-radius:50%;background:var(--navy);display:flex;align-items:center;justify-content:center;box-shadow:0 4px 10px rgba(12,35,64,.25)}
+.srv-t{font-family:"Poppins";font-weight:700;color:var(--navy);text-transform:uppercase;line-height:1.15}
+.srv-d{font-family:"Poppins";font-weight:400;color:#2C3646;line-height:1.3;margin-top:4px}
+.call{display:flex;align-items:center;gap:16px;background:var(--gold);border-radius:60px}
+.call .ic{border-radius:50%;background:var(--navy);display:flex;align-items:center;justify-content:center;flex:none}
+.call .t{font-family:"Oswald";font-weight:700;color:var(--navy);line-height:1}
+.call .t small{display:block;font-weight:600;letter-spacing:.04em}
+.sellos{display:flex}
+.sello{display:flex;flex-direction:column;align-items:center;gap:8px;text-align:center;font-family:"Oswald";font-weight:600;color:#fff;line-height:1.1;letter-spacing:.02em}
+
+/* ---------- FEED ---------- */
+body.post,body.post .c{width:1080px;height:1350px}
+.post .hero{position:absolute;right:0;top:0;width:560px;height:640px;background:var(--gold);clip-path:ellipse(100% 92% at 100% 8%)}
+.post .hero .photo{position:absolute;right:0;top:0;width:544px;height:624px;background-size:cover;background-position:center;clip-path:ellipse(100% 92% at 100% 8%)}
+.post .top{position:absolute;left:60px;top:58px;width:500px}
+.post .wordmark{font-size:44px;margin-bottom:22px}
+.post .kicker{font-size:22px;margin-bottom:10px}
+.post .h1{font-size:104px}
+.post .h2{font-size:116px;margin-top:2px}
+.post .sub{font-size:27px;margin-top:14px;line-height:1.3}
+.post .pill{font-size:23px;padding:11px 26px;margin-top:20px}
+.post .badge{position:absolute;left:640px;top:470px;width:212px;height:212px;font-size:20px}
+.post .badge svg{width:56px;height:56px;margin-bottom:6px}
+.post .badge b{font-size:26px}
+.post .script{position:absolute;left:60px;right:60px;top:712px;font-size:44px;text-align:center}
+.post .list{position:absolute;left:60px;right:60px;top:806px;display:grid;grid-template-columns:1fr 1fr;gap:34px 34px}
+.post .srv-ic{width:70px;height:70px}
+.post .srv-t{font-size:21px}
+.post .srv-d{font-size:18.5px}
+.post .band{position:absolute;left:0;right:0;top:1052px;height:298px;background:var(--navy);clip-path:polygon(0 18px,100% 0,100% 100%,0 100%)}
+.post .call{position:absolute;left:44px;top:58px;padding:10px 34px 10px 10px}
+.post .call .ic{width:84px;height:84px}
+.post .call .t small{font-size:24px}
+.post .call .t big{font-size:58px}
+.post .sellos{position:absolute;right:40px;top:44px;gap:26px}
+.post .sello{font-size:20px;width:126px}
+.post .foot{position:absolute;left:50%;transform:translateX(-50%);top:1258px;background:#fff;border-radius:40px;padding:12px 34px 12px 18px;display:flex;align-items:center;gap:12px;font-family:"Oswald";font-weight:600;font-size:26px;color:var(--navy);letter-spacing:.02em;white-space:nowrap;text-transform:uppercase}
+
+/* ---------- HISTORIA ---------- */
+body.story,body.story .c{width:1080px;height:1920px}
+.story .c{background:linear-gradient(180deg,#FFFFFF 0%,var(--paper) 55%,var(--navy) 55%,var(--navy-ink) 100%)}
+.story .top{position:absolute;left:70px;right:70px;top:250px;text-align:center}
+.story .wordmark{font-size:52px;margin-bottom:22px;margin-right:-.14em}
+.story .kicker{font-size:26px;margin-bottom:6px}
+.story .kicker::after{content:"";width:34px;height:6px;border-radius:3px;background:var(--gold)}
+.story .h1{font-size:132px}
+.story .h2{font-size:146px;margin-top:2px}
+.story .sub{font-size:32px;margin:16px auto 0;max-width:820px}
+.story .srv{align-items:center}
+.story .photo{position:absolute;left:70px;right:70px;top:830px;height:400px;border-radius:36px;background-size:cover;background-position:center;border:8px solid var(--gold);box-shadow:0 18px 40px rgba(0,0,0,.35)}
+.story .badge{position:absolute;right:-30px;top:-80px;width:200px;height:200px;font-size:19px}
+.story .badge svg{width:52px;height:52px;margin-bottom:4px}
+.story .badge b{font-size:24px}
+.story .pill{position:absolute;left:50%;transform:translateX(-50%);top:1258px;font-size:26px;padding:12px 30px;white-space:nowrap;background:var(--gold);color:var(--navy)}
+.story .pill i{color:var(--navy)}
+.story .list{position:absolute;left:80px;right:80px;top:1345px;display:grid;grid-template-columns:1fr 1fr;gap:22px 30px}
+.story .srv-ic{width:62px;height:62px;background:var(--gold)}
+.story .srv-ic svg{stroke:var(--navy)}
+.story .srv-t{font-size:21px;color:#fff}
+.story .srv-d{display:none}
+.story .script{position:absolute;left:0;right:0;top:1512px;text-align:center;font-size:44px;color:#fff}
+.story .call{position:absolute;left:50%;transform:translateX(-50%);top:1584px;padding:10px 40px 10px 10px;white-space:nowrap}
+.story .call .ic{width:90px;height:90px}
+.story .call .t small{font-size:26px}
+.story .call .t big{font-size:62px}
+.story .sellos{display:none}
+
+.head{white-space:nowrap;display:block}

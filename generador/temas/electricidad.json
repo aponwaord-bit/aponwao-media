@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-11_electricidad",
+ "foto": "assets/electricidad.jpg",
+ "etiqueta": "Electricidad · Las Terrenas",
+ "titulo1": "¿Enchufe",
+ "titulo2": "dañado?",
+ "subtitulo": "Tomacorrientes, interruptores y sócates reparados en tu villa, hotel u hospedaje.",
+ "pill": "VILLAS<i>•</i>HOTELES<i>•</i>HOSPEDAJES",
+ "badge": "ARREGLOS<br><b>SEGUROS</b>Y RÁPIDOS",
+ "script": "Todo funcionando para <span>tus huéspedes</span>",
+ "servicios": [
+  {
+   "icono": "rayo",
+   "titulo": "Tomacorrientes",
+   "texto": "Cambio de enchufes flojos, quemados o que no dan corriente."
+  },
+  {
+   "icono": "puerta",
+   "titulo": "Interruptores",
+   "texto": "Reparación y cambio de interruptores de luz."
+  },
+  {
+   "icono": "mas",
+   "titulo": "Sócates y bombillos",
+   "texto": "Cambio de sócates dañados y bombillos fundidos."
+  },
+  {
+   "icono": "copo",
+   "titulo": "Lámparas y abanicos",
+   "texto": "Instalación de lámparas y abanicos de techo."
+  }
+ ],
+ "cierre": "Presupuesto claro antes de empezar · Trabajo garantizado"
+}
