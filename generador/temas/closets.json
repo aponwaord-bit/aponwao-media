@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-23_closets",
+ "foto": "assets/carpinteria.jpg",
+ "etiqueta": "Carpintería · Las Terrenas",
+ "titulo1": "Closets",
+ "titulo2": "y gavetas",
+ "subtitulo": "Arreglamos bisagras, rieles y puertas de closets y gabinetes.",
+ "pill": "VILLAS<i>•</i>HOTELES<i>•</i>HOSPEDAJES",
+ "badge": "TODO<br><b>EN SU</b>LUGAR",
+ "script": "Orden y comodidad <span>para tus huéspedes</span>",
+ "servicios": [
+  {
+   "icono": "llave",
+   "titulo": "Bisagras",
+   "texto": "Cambio y ajuste de bisagras flojas o rotas."
+  },
+  {
+   "icono": "mas",
+   "titulo": "Rieles de gavetas",
+   "texto": "Gavetas que corren suave otra vez."
+  },
+  {
+   "icono": "puerta",
+   "titulo": "Puertas de closets",
+   "texto": "Ajuste de puertas corredizas y batientes."
+  },
+  {
+   "icono": "rodillo",
+   "titulo": "Barniz y protección",
+   "texto": "Madera protegida del comején y la humedad."
+  }
+ ],
+ "cierre": "Presupuesto claro antes de empezar · Trabajo garantizado"
+}

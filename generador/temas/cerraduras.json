@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-13_cerraduras",
+ "foto": "assets/cerraduras.jpg",
+ "etiqueta": "Cerraduras · Las Terrenas",
+ "titulo1": "¿Puerta",
+ "titulo2": "trabada?",
+ "subtitulo": "Cerraduras, bisagras y puertas que no cierran bien en tu villa, hotel u hospedaje.",
+ "pill": "VILLAS<i>•</i>HOTELES<i>•</i>HOSPEDAJES",
+ "badge": "ACCESO<br><b>SEGURO</b>PARA TUS<br>HUÉSPEDES",
+ "script": "Puertas que <span>abren y cierran</span> bien",
+ "servicios": [
+  {
+   "icono": "llave",
+   "titulo": "Cambio de cerraduras",
+   "texto": "Cerraduras nuevas o reparadas en habitaciones y entradas."
+  },
+  {
+   "icono": "puerta",
+   "titulo": "Ajuste de puertas",
+   "texto": "Puertas que rozan, se traban o no cierran."
+  },
+  {
+   "icono": "mas",
+   "titulo": "Bisagras y manillas",
+   "texto": "Cambio de bisagras, manillas y pomos flojos."
+  },
+  {
+   "icono": "escudo",
+   "titulo": "Cerrojos",
+   "texto": "Pasadores y cerrojos extra para más seguridad."
+  }
+ ],
+ "cierre": "Presupuesto claro antes de empezar · Trabajo garantizado"
+}

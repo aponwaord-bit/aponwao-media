@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-17_salitre",
+ "foto": "assets/pintura.jpg",
+ "etiqueta": "Pintura · Las Terrenas",
+ "titulo1": "¿Salitre",
+ "titulo2": "en paredes?",
+ "subtitulo": "Retocamos la pintura exterior dañada por el sol, la sal y la humedad del mar.",
+ "pill": "VILLAS<i>•</i>HOTELES<i>•</i>HOSPEDAJES",
+ "badge": "FACHADA<br><b>COMO</b>NUEVA",
+ "script": "Que el mar <span>no se coma</span> tu fachada",
+ "servicios": [
+  {
+   "icono": "rodillo",
+   "titulo": "Retoques de fachada",
+   "texto": "Pintura exterior resistente al clima del Caribe."
+  },
+  {
+   "icono": "gota",
+   "titulo": "Sellador antihumedad",
+   "texto": "Protección contra manchas, moho y salitre."
+  },
+  {
+   "icono": "puerta",
+   "titulo": "Rejas y barandas",
+   "texto": "Antióxido y esmalte para el metal."
+  },
+  {
+   "icono": "olas",
+   "titulo": "Zonas cerca del mar",
+   "texto": "Mantenimiento para villas frente a la playa."
+  }
+ ],
+ "cierre": "Presupuesto claro antes de empezar · Trabajo garantizado"
+}

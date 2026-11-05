@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-19_entre-huespedes",
+ "foto": "assets/tecnico_ancho.jpg",
+ "etiqueta": "Mantenimiento · Las Terrenas",
+ "titulo1": "¿Llega un",
+ "titulo2": "huésped?",
+ "subtitulo": "Revisión rápida de tu villa u hotel entre una reserva y otra.",
+ "pill": "VILLAS<i>•</i>HOTELES<i>•</i>HOSPEDAJES",
+ "badge": "REVISIÓN<br><b>ENTRE</b>RESERVAS",
+ "script": "Cero sorpresas para <span>tus huéspedes</span>",
+ "servicios": [
+  {
+   "icono": "grifo",
+   "titulo": "Llaves y duchas",
+   "texto": "Que el agua salga bien y nada gotee."
+  },
+  {
+   "icono": "rayo",
+   "titulo": "Enchufes y bombillos",
+   "texto": "Todo encendiendo y funcionando."
+  },
+  {
+   "icono": "puerta",
+   "titulo": "Puertas y cerraduras",
+   "texto": "Que abran, cierren y aseguren bien."
+  },
+  {
+   "icono": "doc",
+   "titulo": "Reporte de daños",
+   "texto": "Te avisamos qué arreglamos y qué falta."
+  }
+ ],
+ "cierre": "Presupuesto claro antes de empezar · Trabajo garantizado"
+}

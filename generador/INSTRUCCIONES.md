@@ -16,11 +16,21 @@ Cada ejecución (un día sí y otro no) produce una pieza nueva, la audita, la e
 - Electricidad: mantenimiento: tomacorrientes, interruptores, sócates y bombillos, lámparas y abanicos. Nada de "¿se fue la luz?" ni inversores.
 - Pintura, carpintería y otros mantenimientos menores de villas y hoteles.
 
-## Calendario (orden pedido por el cliente)
-1. 2026-11-05 pintura (publicado)
-2. 2026-11-07 carpinteria
-3. 2026-11-09 plomeria
-4. 2026-11-11 electricidad
+## Calendario (aprobado por el cliente; los JSON están en generador/temas/)
+- 2026-11-05 pintura (publicado)
+- 2026-11-07 carpinteria
+- 2026-11-09 plomeria
+- 2026-11-11 electricidad
+- 2026-11-13 cerraduras
+- 2026-11-15 abanicos
+- 2026-11-17 salitre
+- 2026-11-19 entre-huespedes
+- 2026-11-21 temporada-alta
+- 2026-11-23 closets
+- 2026-11-25 tomacorrientes
+- 2026-11-27 plan-mensual
+El cliente RECHAZÓ el tema "destapes de desagües y fregaderos" como pieza propia: no lo uses como tema principal.
+Las piezas del calendario ya están auditadas y subidas en 2026-11/: si existen, úsalas tal cual (no regeneres).
 Después: temas nuevos según las necesidades que se repitan en los grupos de Facebook de Las Terrenas
 (Amigos de Las Terrenas, Everything Expats Las Terrenas, DE INTERÉS LAS TERRENAS, Las terrenas).
 Ideas dentro del alcance: mantenimiento preventivo entre huéspedes, cerraduras y puertas, abanicos de techo,

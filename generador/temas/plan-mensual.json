@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-27_plan-mensual",
+ "foto": "assets/tecnico_ancho.jpg",
+ "etiqueta": "Mantenimiento · Las Terrenas",
+ "titulo1": "Plan",
+ "titulo2": "mensual",
+ "subtitulo": "Visitas programadas de mantenimiento para tu villa, hotel u hospedaje.",
+ "pill": "VILLAS<i>•</i>HOTELES<i>•</i>HOSPEDAJES",
+ "badge": "UNA<br><b>VISITA</b>AL MES",
+ "script": "Prevenir <span>cuesta menos</span> que reparar",
+ "servicios": [
+  {
+   "icono": "reloj",
+   "titulo": "Visita programada",
+   "texto": "Un día fijo al mes para revisar tu propiedad."
+  },
+  {
+   "icono": "escudo",
+   "titulo": "Revisión general",
+   "texto": "Plomería, electricidad, puertas y pintura."
+  },
+  {
+   "icono": "llave",
+   "titulo": "Reparaciones menores",
+   "texto": "Lo pequeño se arregla en la misma visita."
+  },
+  {
+   "icono": "doc",
+   "titulo": "Reporte por WhatsApp",
+   "texto": "Fotos y resumen de lo que hicimos."
+  }
+ ],
+ "cierre": "Presupuesto claro antes de empezar · Trabajo garantizado"
+}

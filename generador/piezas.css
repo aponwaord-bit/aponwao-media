@@ -25,7 +25,7 @@
 body.post,body.post .c{width:1080px;height:1350px}
 .post .hero{position:absolute;right:0;top:0;width:560px;height:640px;background:var(--gold);clip-path:ellipse(100% 92% at 100% 8%)}
 .post .hero .photo{position:absolute;right:0;top:0;width:544px;height:624px;background-size:cover;background-position:center;clip-path:ellipse(100% 92% at 100% 8%)}
-.post .top{position:absolute;left:60px;top:58px;width:500px}
+.post .top{position:absolute;left:60px;top:58px;width:470px}
 .post .wordmark{font-size:44px;margin-bottom:22px}
 .post .kicker{font-size:22px;margin-bottom:10px}
 .post .h1{font-size:104px}

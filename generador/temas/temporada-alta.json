@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-21_temporada-alta",
+ "foto": "assets/carpinteria.jpg",
+ "etiqueta": "Temporada alta",
+ "titulo1": "¿Villa",
+ "titulo2": "a punto?",
+ "subtitulo": "Pon tu villa, hotel u hospedaje a punto antes de diciembre.",
+ "pill": "VILLAS<i>•</i>HOTELES<i>•</i>HOSPEDAJES",
+ "badge": "LISTOS<br><b>PARA</b>DICIEMBRE",
+ "script": "Que todo funcione <span>cuando más importa</span>",
+ "servicios": [
+  {
+   "icono": "rodillo",
+   "titulo": "Pintura y retoques",
+   "texto": "Paredes, puertas y rejas como nuevas."
+  },
+  {
+   "icono": "grifo",
+   "titulo": "Plomería básica",
+   "texto": "Duchas, llaves y desagües revisados."
+  },
+  {
+   "icono": "rayo",
+   "titulo": "Electricidad básica",
+   "texto": "Enchufes, interruptores y bombillos."
+  },
+  {
+   "icono": "puerta",
+   "titulo": "Carpintería",
+   "texto": "Puertas, closets y muebles ajustados."
+  }
+ ],
+ "cierre": "Presupuesto claro antes de empezar · Trabajo garantizado"
+}
