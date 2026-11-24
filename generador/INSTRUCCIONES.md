@@ -1,6 +1,6 @@
 # Asistente de imágenes de mantenimiento – Aponwao
 
-Cada ejecución (un día sí y otro no) produce una pieza nueva, la audita, la envía por correo y la programa en Metricool.
+Cada ejecución (días 1, 5, 9, 13, 17, 21 y 25 de cada mes; el plan de Metricool permite 20 publicaciones al mes) produce una pieza, la audita, la envía por correo y la programa en Metricool.
 
 ## Datos fijos
 - Marca: Aponwao Mantenimiento Las Terrenas · Tel/WhatsApp 829 373 5696
@@ -16,7 +16,18 @@ Cada ejecución (un día sí y otro no) produce una pieza nueva, la audita, la e
 - Electricidad: mantenimiento: tomacorrientes, interruptores, sócates y bombillos, lámparas y abanicos. Nada de "¿se fue la luz?" ni inversores.
 - Pintura, carpintería y otros mantenimientos menores de villas y hoteles.
 
-## Calendario (aprobado por el cliente; los JSON están en generador/temas/)
+## Calendario diciembre 2026 (aprobado por el cliente el 24-nov-2026; piezas YA generadas y auditadas en 2026-12/: úsalas tal cual, no regeneres)
+- 2026-12-01 tomacorrientes
+- 2026-12-05 plan-mensual
+- 2026-12-09 base-moho
+- 2026-12-13 sillas-barandas
+- 2026-12-17 antes-despues-baranda (pieza ANTES Y DESPUÉS: fotos reales del cliente, terraza de una villa: baranda reparada, pintura nueva, base limpia y pintada)
+- 2026-12-21 temporada-huespedes
+- 2026-12-25 plan-2027
+Las piezas de tipo "antes-despues" (JSON con "tipo": "antes-despues") se generan con `python3 generar_antes_despues.py temas/<tema>.json` (2 fotos; estilo propio en antes-despues.css).
+Las fotos reales del cliente en assets/ (base-moho, silla-rota, cocina-gabinete, baranda-antes, baranda-despues) son de villas atendidas por Aponwao.
+
+## Calendario noviembre (aprobado por el cliente; los JSON están en generador/temas/)
 - 2026-11-05 pintura (publicado)
 - 2026-11-07 carpinteria
 - 2026-11-09 plomeria

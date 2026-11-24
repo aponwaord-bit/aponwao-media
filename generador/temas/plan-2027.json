@@ -1,0 +1,18 @@
+{
+ "slug": "2026-12-25_plan-2027",
+ "foto": "assets/villa.jpg",
+ "etiqueta": "Mantenimiento · Las Terrenas",
+ "titulo1": "Plan",
+ "titulo2": "2027",
+ "subtitulo": "Empieza el año con visitas de mantenimiento programadas para tu villa u hotel.",
+ "pill": "VILLAS<i>•</i>HOTELES<i>•</i>HOSPEDAJES",
+ "badge": "AÑO<br><b>NUEVO</b>VILLA A PUNTO",
+ "script": "Prevenir <span>cuesta menos</span> que reparar",
+ "servicios": [
+  {"icono": "reloj", "titulo": "Visita mensual", "texto": "Un día fijo al mes para revisar tu propiedad."},
+  {"icono": "escudo", "titulo": "Revisión general", "texto": "Plomería, electricidad, carpintería y pintura."},
+  {"icono": "llave", "titulo": "Arreglos menores", "texto": "Lo pequeño se resuelve en la misma visita."},
+  {"icono": "doc", "titulo": "Reporte por WhatsApp", "texto": "Fotos y resumen de cada visita."}
+ ],
+ "cierre": "Presupuesto claro antes de empezar · Trabajo garantizado"
+}

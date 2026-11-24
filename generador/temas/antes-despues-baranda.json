@@ -1,0 +1,11 @@
+{
+ "tipo": "antes-despues",
+ "slug": "2026-12-17_antes-despues-baranda",
+ "etiqueta": "Carpintería y pintura · Las Terrenas",
+ "subtitulo": "Así quedó la terraza de una villa en Las Terrenas.",
+ "antes": "assets/baranda-antes.jpg",
+ "antes_pos": "center 55%",
+ "despues": "assets/baranda-despues.jpg",
+ "despues_pos": "center 60%",
+ "trabajos": ["Baranda reparada", "Pintura nueva", "Base limpia y pintada"]
+}

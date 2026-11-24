@@ -1,0 +1,19 @@
+{
+ "slug": "2026-12-09_base-moho",
+ "foto": "assets/base-moho.jpg",
+ "foto_pos": "30% center",
+ "etiqueta": "Áreas comunes · Las Terrenas",
+ "titulo1": "¿Bases",
+ "titulo2": "con moho?",
+ "subtitulo": "Limpiamos y pintamos bases, muros y terrazas de tu villa, hotel u hospedaje.",
+ "pill": "VILLAS<i>•</i>HOTELES<i>•</i>HOSPEDAJES",
+ "badge": "ÁREAS<br><b>COMUNES</b>IMPECABLES",
+ "script": "La primera impresión <span>empieza afuera</span>",
+ "servicios": [
+  {"icono": "gota", "titulo": "Moho y manchas", "texto": "Limpieza de bases y muros manchados por la humedad."},
+  {"icono": "rodillo", "titulo": "Pintura exterior", "texto": "Muros y bases pintados para resistir el clima."},
+  {"icono": "olas", "titulo": "Terrazas y caminos", "texto": "Pisos, barandas y caminos limpios para tus huéspedes."},
+  {"icono": "escudo", "titulo": "Jardín en orden", "texto": "Limpieza de hojas y maleza en áreas comunes."}
+ ],
+ "cierre": "Presupuesto claro antes de empezar · Trabajo garantizado"
+}

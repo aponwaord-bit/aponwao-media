@@ -1,0 +1,19 @@
+{
+ "slug": "2026-12-21_temporada-huespedes",
+ "foto": "assets/cocina-gabinete.jpg",
+ "foto_pos": "center 60%",
+ "etiqueta": "Temporada alta · Las Terrenas",
+ "titulo1": "¿Huéspedes",
+ "titulo2": "en camino?",
+ "subtitulo": "Revisamos tu villa u hotel entre una reserva y otra para que todo funcione.",
+ "pill": "VILLAS<i>•</i>HOTELES<i>•</i>HOSPEDAJES",
+ "badge": "LISTA<br><b>ANTES</b>DEL CHECK-IN",
+ "script": "Sin sorpresas <span>en plena temporada</span>",
+ "servicios": [
+  {"icono": "puerta", "titulo": "Puertas y gabinetes", "texto": "Bisagras, cerraduras y puertas que cierran bien."},
+  {"icono": "grifo", "titulo": "Llaves y duchas", "texto": "Sin goteos ni desagües tapados."},
+  {"icono": "rayo", "titulo": "Enchufes y bombillos", "texto": "Tomacorrientes, sócates y abanicos funcionando."},
+  {"icono": "doc", "titulo": "Reporte por WhatsApp", "texto": "Fotos de lo revisado y lo reparado."}
+ ],
+ "cierre": "Presupuesto claro antes de empezar · Trabajo garantizado"
+}

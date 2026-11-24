@@ -1,0 +1,19 @@
+{
+ "slug": "2026-12-13_sillas-barandas",
+ "foto": "assets/silla-rota.jpg",
+ "foto_pos": "center 70%",
+ "etiqueta": "Carpintería · Las Terrenas",
+ "titulo1": "Sillas y",
+ "titulo2": "barandas",
+ "subtitulo": "Reparamos sillas, mesas, barandas y puertas de madera de tu villa u hotel.",
+ "pill": "VILLAS<i>•</i>HOTELES<i>•</i>HOSPEDAJES",
+ "badge": "MADERA<br><b>FIRME</b>Y SEGURA",
+ "script": "Seguridad y comodidad <span>para tus huéspedes</span>",
+ "servicios": [
+  {"icono": "llave", "titulo": "Sillas y mesas", "texto": "Piezas rotas o flojas reparadas y reforzadas."},
+  {"icono": "mas", "titulo": "Barandas", "texto": "Travesaños sueltos o dañados, firmes otra vez."},
+  {"icono": "puerta", "titulo": "Puertas y persianas", "texto": "Ajuste de bisagras, tiradores y cierres."},
+  {"icono": "rodillo", "titulo": "Pintura y barniz", "texto": "Madera protegida de la humedad y el comején."}
+ ],
+ "cierre": "Presupuesto claro antes de empezar · Trabajo garantizado"
+}
