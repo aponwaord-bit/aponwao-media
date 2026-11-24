@@ -24,8 +24,12 @@ Cada ejecución (días 1, 5, 9, 13, 17, 21 y 25 de cada mes; el plan de Metricoo
 - 2026-12-17 antes-despues-baranda (pieza ANTES Y DESPUÉS: fotos reales del cliente, terraza de una villa: baranda reparada, pintura nueva, base limpia y pintada)
 - 2026-12-21 temporada-huespedes
 - 2026-12-25 plan-2027
+
+## Calendario enero 2027 (aprobado; piezas ya generadas en 2027-01/)
+- 2027-01-01 antes-despues-muro (pieza ANTES Y DESPUÉS: muro de entrada de una villa: muro limpio, manchas eliminadas, pintura nueva)
+- Desde el 2027-01-05: temas nuevos según las reglas de abajo.
 Las piezas de tipo "antes-despues" (JSON con "tipo": "antes-despues") se generan con `python3 generar_antes_despues.py temas/<tema>.json` (2 fotos; estilo propio en antes-despues.css).
-Las fotos reales del cliente en assets/ (base-moho, silla-rota, cocina-gabinete, baranda-antes, baranda-despues) son de villas atendidas por Aponwao.
+Las fotos reales del cliente en assets/ (base-moho, silla-rota, cocina-gabinete, baranda-antes, baranda-despues, tomacorriente-real, muro-antes, muro-despues) son de villas atendidas por Aponwao.
 
 ## Calendario noviembre (aprobado por el cliente; los JSON están en generador/temas/)
 - 2026-11-05 pintura (publicado)

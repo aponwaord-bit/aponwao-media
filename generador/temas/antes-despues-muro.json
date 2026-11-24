@@ -1,0 +1,15 @@
+{
+ "tipo": "antes-despues",
+ "slug": "2027-01-01_antes-despues-muro",
+ "etiqueta": "Pintura · Las Terrenas",
+ "subtitulo": "Así quedó el muro de entrada de una villa en Las Terrenas.",
+ "antes": "assets/muro-antes.jpg",
+ "antes_pos": "center 55%",
+ "despues": "assets/muro-despues.jpg",
+ "despues_pos": "center 55%",
+ "trabajos": [
+  "Muro limpio",
+  "Manchas eliminadas",
+  "Pintura nueva"
+ ]
+}

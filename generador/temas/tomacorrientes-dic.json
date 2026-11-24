@@ -1,6 +1,6 @@
 {
  "slug": "2026-12-01_tomacorrientes",
- "foto": "assets/electricidad.jpg",
+ "foto": "assets/tomacorriente-real.jpg",
  "etiqueta": "Electricidad · Las Terrenas",
  "titulo1": "¿Enchufe",
  "titulo2": "flojo?",
@@ -30,5 +30,6 @@
    "texto": "Revisamos antes de dejar todo funcionando."
   }
  ],
- "cierre": "Presupuesto claro antes de empezar · Trabajo garantizado"
+ "cierre": "Presupuesto claro antes de empezar · Trabajo garantizado",
+ "foto_pos": "center"
 }
